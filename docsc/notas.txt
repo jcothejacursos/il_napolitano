@@ -1,9 +1,0 @@
-Diseña un logotipo circular moderno para una auténtica pizzería italiana llamada «Pizze il Napolitano»,
-con una pizza napolitana bellamente ilustrada en el centro. Incorpora los colores de la bandera italiana (verde, blanco y rojo) 
-de forma orgánica en todo el diseño, ya sea en los ingredientes de la pizza, los elementos del fondo o los detalles decorativos, 
-manteniendo una paleta equilibrada y apetitosa. El nombre del restaurante, «Pizze il Napolitano», debe curvarse elegantemente
-alrededor del borde circular con una tipografía limpia y contemporánea, y ser legible en diferentes tamaños. 
-La estética general debe ser minimalista, sofisticada y profesional, con líneas limpias y una atención al detalle que transmita calidez, 
-hospitalidad y una auténtica esencia italiana, sin perder la sensibilidad del diseño moderno. El formato del logotipo debe estar en SVG
-con fondo transparente, asegurando su escalabilidad y optimización para aplicaciones digitales (sitio web, redes sociales) sin pérdida 
-de calidad.
