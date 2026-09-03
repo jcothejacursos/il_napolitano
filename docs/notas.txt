@@ -7,3 +7,12 @@ La estética general debe ser minimalista, sofisticada y profesional, con línea
 hospitalidad y una auténtica esencia italiana, sin perder la sensibilidad del diseño moderno. El formato del logotipo debe estar en SVG
 con fondo transparente, asegurando su escalabilidad y optimización para aplicaciones digitales (sitio web, redes sociales) sin pérdida 
 de calidad.
+
+Design a modern, circular logo for an authentic Italian pizzeria called 'Pizze il Napolitano' featuring a beautifully illustrated 
+Neapolitan-style pizza in the center. Incorporate the Italian flag colors (green, white, and red) organically throughout the design 
+in the pizza toppings, background elements, or decorative accents while maintaining a balanced, appetizing palette. 
+The restaurant name 'Pizze il Napolitano' should be elegantly curved around the circular border using clean, contemporary
+typography with excellent legibility at various sizes. The overall aesthetic should be minimalist, sophisticated, and professional
+with clean lines and attention to detail that feels warm, welcoming, and authentically Italian while maintaining modern design 
+sensibilities. Provide the logo in SVG format with a transparent background, ensuring it's fully scalable and optimized 
+for both digital (website, social media) and print applications without any loss of quality)
