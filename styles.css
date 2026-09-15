@@ -1,0 +1,56 @@
+:root{
+    --color-nav:#333333;
+}
+body{
+
+ background-color:#ffffff;
+ 
+}
+
+#header-container{
+ display:flex;
+ justify-content: space-between;
+ margin: 12px 0 0 0;
+  font-family: "Oswald", sans-serif;
+  padding: 10px 20px 0 20px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline;
+    background-color: #C98A2B;
+}
+
+nav ul li a{
+     text-decoration: none;
+     font-size: 15px;
+     padding: 15px;
+     color:var(--color-nav);
+}
+
+nav ul li a:hover{
+    color: #ffffff;
+    background-color: #e50c39;
+}
+
+.brand-header{
+    padding: 32PX 0 0 0;
+    color: #e50c39;
+    font-family: "Lobster", sans-serif;
+    text-align: center;
+    font-size: 64px;
+    font-weight: 700;
+    font-style: italic;
+    letter-spacing: 2px;
+}
+
+main h2{
+    /*text-align: center;*/
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    letter-spacing: 2px;
+    color: #000000;
+    font-weight: 500;
+    font-family: "Oswald", sans-serif;
+}
