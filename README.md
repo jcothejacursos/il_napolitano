@@ -4,9 +4,7 @@
 
     animate.style
 
-
     resizing.app
-
 
     squoosh.app
 
