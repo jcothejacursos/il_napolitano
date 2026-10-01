@@ -18,6 +18,8 @@
 
     arena.ai
 
+    fonts.google.com
+
     fontawesome.com
 
     cdnjs.com
