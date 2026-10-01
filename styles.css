@@ -118,3 +118,60 @@ main h2 {
   border-radius: 20px;
   cursor: pointer;
 }
+
+.footer-content{
+  background-color: #f8f9fa;
+  padding: 40px 20px 20px; /*Forma abreviada de escribir, padding: 40px 20px 20px 20px;*/
+  font-family: "Oswald", sans-serif;
+  border-top: 1px solid #e1e8ee;
+  margin-top: 40px;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.footer-nav ul{
+  list-style-type: none;
+  display:flex;
+  justify-content: center;
+}
+
+.footer-nav ul li{
+  margin: 0 15px;
+}
+
+.footer-nav ul li a{
+  text-decoration: none;
+  color: var(--color-nav);
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.footer-nav ul li a:hover{
+  color:#e50c39;
+}
+
+.footer-social {
+  display:flex;
+  justify-content: center;
+  margin-top:;
+}
+
+.footer-social  i{
+  margin: 0 10px;
+  font-size: 24px;
+  color: var(--color-nav);
+  cursor: pointer;
+}
+
+.footer-social i:hover{
+  color: #e50c39;
+}
+
+.footer-copyright{
+  text-align: center;
+  font-size: 14.4px;
+}
