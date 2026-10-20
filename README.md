@@ -23,3 +23,5 @@
     fontawesome.com
 
     cdnjs.com
+
+    https://jsonlint.com/
