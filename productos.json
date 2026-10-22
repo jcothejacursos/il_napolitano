@@ -47,5 +47,12 @@
 "fecha":"22/09/2026",
 "imagen":"images/pizza_roque.webp",
 "descripcion":"especial de roquefort con peras al vino "
+},
+{
+"nombre":"san_martin",
+"precio":20500,
+"fecha":"22/10/2026",
+"imagen":"",
+"descripcion":"pizza muzarella con aceitunas negras y morrones azados "
 }
 ]
