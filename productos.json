@@ -49,7 +49,7 @@
 "descripcion":"especial de roquefort con peras al vino "
 },
 {
-"nombre":"san_martin",
+"nombre":"san martin",
 "precio":20500,
 "fecha":"22/10/2026",
 "imagen":"images/pizza_sm.webp",
@@ -60,5 +60,6 @@
 "fecha":"03/11/2026",
 "imagen":"images/pizza_champignone.webp",
 "descripcion":"pizza especial de muzarella con Champignones palmitos y alcauciles "
+
 }
 ]
