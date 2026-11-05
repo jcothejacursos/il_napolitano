@@ -52,7 +52,13 @@
 "nombre":"san_martin",
 "precio":20500,
 "fecha":"22/10/2026",
-"imagen":"",
+"imagen":"images/pizza_sm.webp",
 "descripcion":"pizza muzarella con aceitunas negras y morrones azados "
+},
+{"nombre":"especial italia",
+"precio":40000,
+"fecha":"03/11/2026",
+"imagen":"images/pizza_champignone.webp",
+"descripcion":"pizza especial de muzarella con Champignones palmitos y alcauciles "
 }
 ]
