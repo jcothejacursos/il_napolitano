@@ -2,26 +2,26 @@
 
 ## Links utiles
 
-    animate.style
+https://animate.style
 
-    resizing.app
+https://resizing.app
 
-    squoosh.app
+https://squoosh.app
 
-    flow.google
+https://flow.google
 
-    flowmusic.app
+https://flowmusic.app
 
-    qwen.ai
+https://qwen.ai
 
-    meta.ai
+https://meta.ai
 
-    arena.ai
+https://arena.ai
 
-    fonts.google.com
+https://fonts.google.com
 
-    fontawesome.com
+https://fontawesome.com
 
-    cdnjs.com
+https://cdnjs.com
 
-    https://jsonlint.com/
+https://jsonlint.com/
