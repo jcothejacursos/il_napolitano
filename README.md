@@ -41,7 +41,7 @@ Proyecto desarrollado con **HTML, CSS y JavaScript vanilla** (módulos ES6), sin
 ├── main.js               
 ├── products.json        
 ├── css/
-│   └── style.css          
+│   └── styles.css          
 ├── js/
 │   ├── api.js             
 │   ├── ui.js             
@@ -49,7 +49,7 @@ Proyecto desarrollado con **HTML, CSS y JavaScript vanilla** (módulos ES6), sin
 │       └── products.js    
 └── img/
     ├── logo.webp
-    └── pizza-*.jpg 
+    └── pizza_*.jpg 
 
 ```
 ## 🚀 Cómo ejecutarlo en local
